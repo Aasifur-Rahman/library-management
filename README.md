@@ -29,11 +29,13 @@ A RESTful API for managing books and borrowing records, built using Node Js, Exp
 
 ### Books
 
-GET "/api/books"
-POST "/api/books"
-GET "/api/books/:id"
-PUT "/api/books/:id"
-DELETE "/api/books/:id"
+| Method | Endpoint         |
+| ------ | ---------------- |
+| GET    | "/api/books"     |
+| POST   | "/api/books"     |
+| GET    | "/api/books/:id" |
+| PUT    | "/api/books/:id" |
+| DELETE | "/api/books/:id" |
 
 ### Borrow
 
