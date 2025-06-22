@@ -1,4 +1,4 @@
-### Library Management API
+# Library Management API
 
 A RESTful API for managing books and borrowing records, built using Node Js, Express and MongoDB (with Mongoose)
 
@@ -27,7 +27,7 @@ A RESTful API for managing books and borrowing records, built using Node Js, Exp
 
 ## Here are some end points
 
-# Books
+### Books
 
 GET "/api/books"
 POST "/api/books"
@@ -35,12 +35,12 @@ GET "/api/books/:id"
 PUT "/api/books/:id"
 DELETE "/api/books/:id"
 
-# Borrow
+### Borrow
 
 POST "/api/borrow"
 GET "/api/borrow"
 
-## Techies
+### Techies
 
 - Backend :- Node.js, Express,
 - Database :- MongoDB, Mongoose
