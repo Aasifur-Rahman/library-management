@@ -39,8 +39,10 @@ A RESTful API for managing books and borrowing records, built using Node Js, Exp
 
 ### Borrow
 
-POST "/api/borrow"
-GET "/api/borrow"
+| Method | Endpoint      |
+| ------ | ------------- |
+| POST   | "/api/borrow" |
+| GET    | "/api/borrow" |
 
 ### Techies
 
